@@ -1,2 +1,2 @@
 # SECS-GEM-Simulator
-Equipment and Host console siimulator
+Equipment and Host console simulator
