@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="EquipmentSimulator/EquipmentSimulator.csproj" />
+  <Project Path="HostSimulator/HostSimulator.csproj" />
+  <Project Path="SecsGem.Core.Tests/SecsGem.Core.Tests.csproj" Id="7c56d2d2-5b3f-4b45-a53f-0f7bc3cad15d" />
+  <Project Path="SecsGem.Core/SecsGem.Core.csproj" />
+</Solution>

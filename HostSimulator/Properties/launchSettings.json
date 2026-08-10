@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "SecsGem.Core": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
